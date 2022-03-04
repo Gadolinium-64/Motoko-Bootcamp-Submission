@@ -1,3 +1,2 @@
 # Motoko-Bootcamp-Submission
-First attempt at creating a canister on motoko and a repository on github.
-I am a complete newbie to both github and motoko.
+I've failed at uploading onto here, so you cand check out the new repository that actually works here: https://github.com/Gadolinium-64/Second-Attempt
